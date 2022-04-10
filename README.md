@@ -1,11 +1,11 @@
-![NEG_LOGO](https://github.com/joaogaspar00/IA-para-mais-novos/blob/main/img/IST_A_RGB_NEG.png#gh-dark-mode-only)
-![POS_LOGO](https://github.com/joaogaspar00/IA-para-mais-novos/blob/main/img/IST_A_RGB_POS.png#gh-light-mode-only)
+![NEG_LOGO](https://github.com/ROB9-16-IST/IA-para-mais-novos/blob/main/img/IST_A_RGB_NEG.png#gh-dark-mode-only)
+![POS_LOGO](https://github.com/ROB9-16-IST/IA-para-mais-novos/blob/main/img/IST_A_RGB_POS.png#gh-light-mode-only)
 
 <div align="center">
     <h2>Inteligência Artificial para os mais novos! 😃</h2> 
  </div>  
 
- ![CAPA](https://github.com/joaogaspar00/IA-para-mais-novos/blob/main/img/capa.png)
+ ![CAPA](https://github.com/ROB9-16-IST/IA-para-mais-novos/blob/main/img/capa.png)
 
 A inteligência artificial é o futuro da humanidade. Cada vez mais vemos as organizações à procura de profissionais especializiados para melhorar as suas tecnologias. Os jovens de hoje precisam de começar a compreender as suas vantagens com o objetivo de, no futuro, poderem estar inseridos numa sociedade amplamente influenciada por computadores inteligentes.
 
@@ -24,7 +24,7 @@ Após estes primeiros passos no mundo das tecnologias inteligentes, os alunos es
 
 Esta atividade está planificada para decorrer ao longo de três dias, num total de doze sessões. Cada uma destas sessões têm um objetivo especifíco, porém pode ser alterado dependendo da dinâmica da turma.
 
-![PLAN](https://github.com/joaogaspar00/IA-para-mais-novos/blob/main/img/planificacao.png#gh-dark-mode-only)
+![PLAN](https://github.com/ROB9-16-IST/IA-para-mais-novos/blob/main/img/planificacao.png)
 
 __Dia 1__
 - Apresentação. Monitores e alunos. Estrutura da atividade
