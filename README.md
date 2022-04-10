@@ -41,3 +41,6 @@ __Dia 3__:
 - Demonstrações com atividades práticas.
 - Atividade de programação: simulador capaz de conduzir um carro para aplicação dos conceitos de inteligência artificial.
 
+### Recursos
+
+Para aceder à apresentação da atividade acede através do seguinte [link](https://drive.google.com/drive/folders/1GpFFsYo5em-bD7jWbIA4UCFlKILLTIQu?usp=sharing)
