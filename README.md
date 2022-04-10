@@ -15,7 +15,7 @@ Através desta atividade os alunos vão dar os primeiros passos no mundo da inte
 
 Após estes primeiros passos no mundo das tecnologias inteligentes, os alunos estão aptos para as compreender e investigar mais a fundo os conceitos que serão abordados. Desta forma pretende-se que os alunos entendam:
 
-- de forma a nossa vida é influênciada pelos computadores inteligêntes
+- como a nossa vida é influênciada pelos computadores inteligêntes
 - conceitos sobre inteligência artificial
 - conceitos sobre machine learning
 - como programar um sistema de inteligência artificial
