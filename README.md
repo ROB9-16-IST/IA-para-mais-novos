@@ -43,4 +43,4 @@ __Dia 3__:
 
 ### Recursos
 
-Para aceder à apresentação da atividade acede através do seguinte [link](https://drive.google.com/drive/folders/1GpFFsYo5em-bD7jWbIA4UCFlKILLTIQu?usp=sharing)
+Para aceder à apresentação da atividade acede através do seguinte [link](https://docs.google.com/presentation/d/1FnbfCFVvLmoiJI-wXW3M0JBc0p5q2pJQ/edit?usp=sharing&ouid=105263864395862008601&rtpof=true&sd=true)
